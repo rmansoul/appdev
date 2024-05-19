@@ -1,0 +1,2 @@
+a="rida"
+print(a)
